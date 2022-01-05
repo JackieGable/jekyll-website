@@ -3,14 +3,14 @@ A simple Jekyll Website
 
 # How to Setup a Simple Jekyll Website
 In the terminal window type each line at the command prompt press enter after each line:
-bundle init
-bundle config set --local path 'vendor/bundle'
-bundle add jekyll
-bundle exec jekyll new --force --blank --skip-bundle .
-bundle install 
-bundle add wdm
-bundle add webrick
-bundle update
-bundle exec jekyll serve --open-url http://localhost:4000/
+1. bundle init
+2. bundle config set --local path 'vendor/bundle'
+3. bundle add jekyll
+4. bundle exec jekyll new --force --blank --skip-bundle .
+5. bundle install 
+6. bundle add wdm
+7. bundle add webrick
+8. bundle update
+9. bundle exec jekyll serve --open-url http://localhost:4000/
 
 # How to Commit the Repo to Github
