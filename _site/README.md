@@ -2,7 +2,7 @@
 A simple Jekyll Website
 
 # How to Setup a Simple Jekyll Website
-In the terminal window type each line at the command prompt press enter after each line:
+In the terminal window, type each line below and press enter after each entry:
 1. bundle init
 2. bundle config set --local path 'vendor/bundle'
 3. bundle add jekyll
@@ -13,4 +13,4 @@ In the terminal window type each line at the command prompt press enter after ea
 8. bundle update
 9. bundle exec jekyll serve --open-url http://localhost:4000/
 
-# How to Commit the Repo to Github
+
